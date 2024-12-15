@@ -1,0 +1,10 @@
+To run this framework successfully you will need:
+
+allure-behave
+behave
+selenium
+webdriver-manager
+
+
+This framework solely belongs to SDET-SOLOMAN aka EL-Coder for his Red-Viper team,
+copying this repo for any other purposes than learning is not advised.
